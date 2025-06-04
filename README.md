@@ -1,0 +1,2 @@
+# -Bike-Sales-Analysis-using-Tableau
+Developed an interactive bike sales analysis dashboard using Tableau. The dashboard visualizes key sales metrics, trends, and geographic distributions, providing users with actionable insights to drive data-informed decisions. Featuring dynamic filters and detailed visualizations, it enables in-depth exploration of sales data across various dimensions. This project highlights my skills in data integration and visualization, offering a practical tool for enhancing business intelligence and strategic planning.
